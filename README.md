@@ -1,6 +1,7 @@
 # Loruki Rebuild
 
-> Loruki is a website providing cloud based hosting services to individuals and entrepreneurs. In this project, we are trying to recreate the Loruki website.
+> Loruki is a website providing cloud based hosting services to individuals and
+> entrepreneurs. In this project, we are trying to recreate the Loruki website.
 
 ## Table of contents
 
