@@ -1,30 +1,39 @@
 # Backlog
 
-A collection of user stories you can choose from. Stories inside each priority
-level are not necessarily in order, it's up to your group to decide how they fit
-into your strategy. These are also just suggestion, feel free to change them or
-create your own!
+### Series of stories to create a hosting website.
 
 ## Must-Haves
 
-> these are necessary for basic usability
+> As a user I want
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- Title
+
+> As a user I want
+
+- nav links
+  > As a Software Developer I want
+- Host my portfolio online
+
+> As a Buisness owner I want
+
+- Buisness websiten on a cloud
 
 ## Should-Haves
 
-> these will complete the user experience, but are not necessary
+> As a software developer I want
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- Visiters should be able to connect.
 
-## Could-Haves
+> As a buisness owner I want
 
-> would be really cool ... if there's time
+- Show a price list
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+## could-Haves
+
+> As a software developer I want
+
+- Links to other similar websites.
+
+> As a buisness owner I want
+
+- Leave comments.
