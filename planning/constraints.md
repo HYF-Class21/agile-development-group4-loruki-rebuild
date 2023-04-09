@@ -8,5 +8,4 @@ Limited Time
 
 ## Internal
 
-some members have less avialability. 
-we can spend 5hrs. a day to the project.
+some members have less avialability. we can spend 5hrs. a day to the project.
