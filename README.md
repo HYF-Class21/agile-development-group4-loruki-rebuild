@@ -1,10 +1,11 @@
-# Name of project
+# Loruki Rebuild
 
-> A longer description
+> Loruki is a website providing cloud based hosting services to individuals and
+> entrepreneurs. In this project, we are trying to recreate the Loruki website.
 
 ## Table of contents
 
-- [Name of project](#name-of-project)
+- [Loruki](#Loruki)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshots](#screenshots)
