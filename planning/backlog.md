@@ -40,18 +40,22 @@ create your own!
 
   - _there are links at the bottom of the page_
 
-<!-- ## Should-Haves
+## Should-Have
 
-> these will complete the user experience, but are not necessary
+> As a software developer I want
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- Visiters should be able to connect.
 
-## Could-Haves
+> As a buisness owner I want
 
-> would be really cool ... if there's time
+- Show a price list
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_ -->
+## could-Have
+
+> As a software developer I want
+
+- Links to other similar websites.
+
+> As a buisness owner I want
+
+- Leave comments.
