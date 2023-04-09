@@ -1,10 +1,22 @@
 # Design
 
-We decided to have a simple page, we didn't make plan colors or anything else.
-Prettiness is not a priority for this project.
+Here is the wireframe of my project. There are 3 main sections:
+
+**Header**,header parts define the title and navigation bar for the page.
+
+**Main sections** defines the Text,images.
+
+**footer** footer parts define the links for extra informations & link for
+social media.
 
 ---
 
-> [wireframe source](https://excalidraw.com/#json=5697932045058048,50g_dMeek8cnpk9dH1teGg)
+---
 
-![wireframe](./wireframe.svg)
+- Red elements - **must-have**
+- Green elements -**should-have**
+- Blue elements - **could-have**
+
+---
+
+![wireframe](/public/wire-frame-loruki.png)
