@@ -1,7 +1,5 @@
 # Backlog
 
-### Series of stories to create a hosting website.
-
 ## Must-Haves
 
 > As a user I want
