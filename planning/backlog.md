@@ -13,7 +13,7 @@
 
   - _there are navigation links at the top right corner._
 
-  - [ ] As a user I want to see the `description` of the page.
+  - [ ] As a user I want to see the `introduction` of the page.
   - _there is a box with an information about Loruki website_
 
 - [ ] As a user I want to see the how this platform works to make an assessment

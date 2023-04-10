@@ -31,7 +31,7 @@
 
 ### Site title/logo CSS
 
-- [ ] writen in color white with a blue background for the div.
+- [ ] written in color white with a blue background for the div.
 
 ## 2. Site Navigation
 
@@ -53,12 +53,15 @@
 > As a user I need introduction of the service, it should be straight to the
 > point and will have a demo-form(DF) for user to request.
 
+This user story is developed on branch `introduction`. This branch is merged to
+`master` branch after completion.
+
 - [ ] There should be clear and short information to understand the service of
       the site and a demo-form(DF) to show the client.
 
 ### ITS HTML
 
-- [ ] Text paragraph, with a read more button to provide more infomation.
+- [ ] Text paragraph, with a read more button to provide more information.
 
 ### ITS CSS
 
@@ -81,7 +84,7 @@
 
 - [ ] There should be data and facts backup your creditability.
 
-### Crefitability HTML
+### Creditability HTML
 
 - [ ] should be right below the ITS and DF.
 
@@ -93,7 +96,7 @@
 
 > As a user I would like to know if the service is easy to use.
 
-- [ ] screenshot and infomation of how to use the service in real environment.
+- [ ] screenshot and information of how to use the service in real environment.
 
 ### Example Box HTML
 
@@ -124,14 +127,14 @@
 
 ## 7. Supported languages
 
-> As a user i want to see if the service supports the language i am currentky
+> As a user i want to see if the service supports the language i am currently
 > using.
 
-- [ ] Showing the language the service is currently suppporting.
+- [ ] Showing the language the service is currently supporting.
 
 ### Supported languages HTML
 
-- [ ] Languages are divided into boxes with name and logo of the language insde.
+- [ ] Languages are divided into boxes with name and logo of the language inside.
 
 ### Supported language CSS
 
@@ -139,7 +142,7 @@
 
 ## 8.Social Links
 
-> As a user i am interested in reaching out to the site owenr for more.
+> As a user i am interested in reaching out to the site owner for more.
 
 - [ ] Add social links and copyright.
 
