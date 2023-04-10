@@ -4,8 +4,16 @@ Some boundaries around our project.
 
 ## External
 
-Limited Time
+Time Duration : 1week
 
 ## Internal
 
-some members have less avialability. we can spend 5hrs. a day to the project.
+Technologies: Html & Css. 
+
+Tools : Vs code,git.
+
+ Code Format :prettier,lint.
+ 
+Risk: We may miss time line. 
+
+Methadologies : Agile
