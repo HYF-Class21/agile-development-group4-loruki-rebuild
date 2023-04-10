@@ -1,10 +1,5 @@
 # Backlog
 
-A collection of user stories you can choose from. Stories inside each priority
-level are not necessarily in order, it's up to your group to decide how they fit
-into your strategy. These are also just suggestion, feel free to change them or
-create your own!
-
 ## Must-Haves
 
 > these are necessary for basic usability
@@ -18,11 +13,13 @@ create your own!
 
   - _there are navigation links at the top right corner._
 
-- [ ] As a user I want to see the `contact form` of the page.
+  - [ ] As a user I want to see the `description` of the page.
+  - _there is a box with an information about Loruki website_
 
-  - _there is a contact form._
+- [ ] As a user I want to see the how this platform works to make an assessment
+      if it fits my needs .
 
-- [ ] As a user I want to see the `description` of the page.
+  - _there is a `demo-box`._
 
 - [ ] As a user I want to see the `creditability` of the page.
 
@@ -40,18 +37,27 @@ create your own!
 
   - _there are links at the bottom of the page_
 
-<!-- ## Should-Haves
+## Should-Haves
 
-> these will complete the user experience, but are not necessary
+- [ ] As a user I'd like to be able to explore product's functionality to make
+      an assessment if it fits my needs.
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+  - _there is an info-box about website's `features`_
+
+- [ ] As a user I'd like to see a pictogram of features.
+
+  - _there is one `pictogram of features`_
+
+- [ ] As a user I'd like to have more information about Loruki Platform.
+  - _there is some information about `The Loruki Platform`_
+- [ ] As a user I'd like to see a pictogram of Loruki Platform.
+  - _there is one `pictogram of Loruki Platform`_
 
 ## Could-Haves
 
-> would be really cool ... if there's time
+- [ ] As a user I want to know better how this website works.
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_ -->
+  - \_there is a box with information about `Docs`
+
+- [ ]As a user I'd like to see a pictogram of Docs.
+  - _there is one `pictogram Docs`_
