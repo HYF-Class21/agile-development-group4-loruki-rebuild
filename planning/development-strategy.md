@@ -96,6 +96,9 @@ This user story is developed on branch `introduction`. This branch is merged to
 
 > As a user I would like to know if the service is easy to use.
 
+- This user stories are developed on branch `example.box`
+- This branch is merged to `master`
+
 - [ ] screenshot and information of how to use the service in real environment.
 
 ### Example Box HTML
