@@ -61,7 +61,7 @@ This user story is developed on branch `introduction`. This branch is merged to
 
 ### ITS HTML
 
-- [ ] Text paragraph, with a read more button to provide more information.
+- [ ] Text paragraph, with a `read more` button to provide more information.
 
 ### ITS CSS
 
@@ -134,7 +134,8 @@ This user story is developed on branch `introduction`. This branch is merged to
 
 ### Supported languages HTML
 
-- [ ] Languages are divided into boxes with name and logo of the language inside.
+- [ ] Languages are divided into boxes with name and logo of the language
+      inside.
 
 ### Supported language CSS
 
