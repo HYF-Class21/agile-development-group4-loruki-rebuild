@@ -61,7 +61,7 @@ pre {
   height: 0;
 }
 
-/*Header , start here*/
+/* Header , start here */
 
 .headerContainer {
   width: 100%;
@@ -86,16 +86,16 @@ pre {
   cursor: pointer;
 }
 
+.link a {
+  color: white;
+  text-decoration: none;
+}
+
 .link a:hover {
   color: white;
   text-decoration: underline;
   border-bottom: 5px white;
   text-underline-offset: 15px;
-}
-
-.link a {
-  color: white;
-  text-decoration: none;
 }
 
 /* Introduction, start */
