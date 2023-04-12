@@ -61,6 +61,43 @@ pre {
   height: 0;
 }
 
+/* Header , start here */
+
+.headerContainer {
+  width: 100%;
+  background-color: var(--primary-color);
+}
+
+.title {
+  color: white;
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar {
+  list-style: none;
+  display: flex;
+  text-align: center;
+  align-items: center;
+}
+
+.link {
+  padding-right: 20px;
+  cursor: pointer;
+}
+
+.link a {
+  color: white;
+  text-decoration: none;
+}
+
+.link a:hover {
+  color: white;
+  text-decoration: underline;
+  border-bottom: 5px white;
+  text-underline-offset: 15px;
+}
+
 /* Introduction, start */
 
 .showcase {
