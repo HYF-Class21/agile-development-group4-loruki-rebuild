@@ -8,16 +8,18 @@
 
   - _there is a clear title of the page_
 
-- [ ] As a user I want to see the `navigation links` of the page, to reach easy
+- [ ] As a user I want to see the `navigation links` of the page to reach easy
       the different parts of the website
 
   - _there are navigation links at the top right corner._
 
-  - [ ] As a user I want to see the `introduction` of the page.
+  - [ ] As a user I want to see the `introduction` of the page to get know what
+        this site is about.
+
   - _there is a box with an information about Loruki website_
 
-- [ ] As a user I want to see the how this platform works to make an assessment
-      if it fits my needs .
+- [ ] As a user I want to see how this platform works to make an assessment if
+      it fits my needs .
 
   - _there is a `demo-box`._
 
