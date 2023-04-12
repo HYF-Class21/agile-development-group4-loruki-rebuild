@@ -135,6 +135,9 @@ This user story is developed on branch `introduction`. This branch is merged to
 
 - [ ] Showing the language the service is currently supporting.
 
+- This user stories are developed on branch `languages`
+- This branch is merged to `master`
+
 ### Supported languages HTML
 
 - [ ] Languages are divided into boxes with name and logo of the language
