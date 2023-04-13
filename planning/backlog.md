@@ -1,22 +1,23 @@
 # Backlog
 
 ## Must-Have
-  ### Home page
+
+### Home page
 
 > these are necessary for basic usability.
+
 - [ ] As a user I want to see the `title` of the page
 
-  - _there is a clear title of the page at the top left   corner.
+  - \_there is a clear title of the page at the top left corner.
 
 - [ ] As a user I want to see the `navigation links` of the page to reach easy
       the different parts of the website
 
   - _there are navigation links at the top right corner._
 
-  - [ ] As a user I want to see the `introduction` of the page to get know 
+  - [ ] As a user I want to see the `introduction` of the page to get know
 
   - _what all about this website is_
-         
 
   - _there is a box with an information about Loruki website_
 
