@@ -442,6 +442,27 @@ pre {
   grid-row: 1 / span 2;
 }
 
+/* Social Links */
+.footer .social a {
+  margin: 0 10px;
+}
+
+.fa-github:hover {
+  color: #000;
+}
+
+.fa-facebook:hover {
+  color: #1773ea;
+}
+
+.fa-instagram:hover {
+  color: #b32e87;
+}
+
+.fa-twitter:hover {
+  color: #1c9cea;
+}
+
 /* Animation */
 
 @keyframes slideInFromLeft {
