@@ -25,6 +25,9 @@
 > **As a user I want to read a title of the page** The site needs a good
 > title/logo at the top left of the page.
 
+- This user story is developed on branch `index`.
+- This branch is merged to `master` branch after completion.
+
 ### Site title/logo HTML
 
 - [ ] Header with the web site's title
@@ -36,6 +39,9 @@
 ## 2. Site Navigation
 
 > As a user I need _Nav bar_ that can help me navigate the website quickly.
+
+- This user story is developed on branch `index`.
+- This branch is merged to `master` branch after completion.
 
 - [ ] There should be a navigation bar with the links to different parts of
       website at top right corner.
@@ -53,8 +59,8 @@
 > As a user I need introduction of the service, it should be straight to the
 > point and will have a demo-form(DF) for user to request.
 
-This user story is developed on branch `introduction`. This branch is merged to
-`master` branch after completion.
+- This user story is developed on branch `introduction`.
+- This branch is merged to `master` branch after completion.
 
 - [ ] There should be clear and short information to understand the service of
       the site and a demo-form(DF) to show the client.
@@ -81,6 +87,9 @@ This user story is developed on branch `introduction`. This branch is merged to
 
 > As a user I need to know how many customers the website gets, is it a reliable
 > and competitive website.
+
+- This user story is developed on branch `credit`.
+- This branch is merged to `master` branch after completion.
 
 - [ ] There should be data and facts backup your creditability.
 
@@ -112,6 +121,9 @@ This user story is developed on branch `introduction`. This branch is merged to
 
 ## 6. Extra advertisement
 
+- This user story is developed on branch `cloud`.
+- This branch is merged to `master` branch after completion.
+
 > As a user I may want to get more information before i decide to try the
 > service.
 
@@ -119,8 +131,8 @@ This user story is developed on branch `introduction`. This branch is merged to
 
 ### Extra advertisement HTML
 
-- [ ] A div box contain descriptive words on cloud hosting and a
-      `Read more`button to more information
+- [ ] A div box contain descriptive words on cloud hosting and a `Read more`
+      button to more information
 
 ### Extra advertisement CSS
 
@@ -133,10 +145,10 @@ This user story is developed on branch `introduction`. This branch is merged to
 > As a user i want to see if the service supports the language i am currently
 > using.
 
-- [ ] Showing the language the service is currently supporting.
-
 - This user stories are developed on branch `languages`
 - This branch is merged to `master`
+
+- [ ] Showing the language the service is currently supporting.
 
 ### Supported languages HTML
 
@@ -150,6 +162,9 @@ This user story is developed on branch `introduction`. This branch is merged to
 ## 8.Social Links
 
 > As a user i am interested in reaching out to the site owner for more.
+
+- This user stories are developed on branch `social-links`
+- This branch is merged to `master`
 
 - [ ] Add social links and copyright.
 
