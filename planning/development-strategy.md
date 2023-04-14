@@ -22,11 +22,10 @@
 
 ## 1. Title
 
-> **As a user I want to read a title of the page** The site needs a good
-> title/logo at the top left of the page.
-
 - This user story is developed on branch `index`.
 - This branch is merged to `master` branch after completion.
+  > **As a user I want to read a title of the page** The site needs a good
+  > title/logo at the top left of the page.
 
 ### Site title/logo HTML
 
@@ -38,10 +37,10 @@
 
 ## 2. Site Navigation
 
-> As a user I need _Nav bar_ that can help me navigate the website quickly.
-
 - This user story is developed on branch `index`.
 - This branch is merged to `master` branch after completion.
+
+> As a user I need _Nav bar_ that can help me navigate the website quickly.
 
 - [ ] There should be a navigation bar with the links to different parts of
       website at top right corner.
@@ -56,11 +55,11 @@
 
 ## 3. Introduction of the service (ITS)
 
-> As a user I need introduction of the service, it should be straight to the
-> point and will have a demo-form(DF) for user to request.
-
 - This user story is developed on branch `introduction`.
 - This branch is merged to `master` branch after completion.
+
+> As a user I need introduction of the service, it should be straight to the
+> point and will have a demo-form(DF) for user to request.
 
 - [ ] There should be clear and short information to understand the service of
       the site and a demo-form(DF) to show the client.
@@ -85,11 +84,11 @@
 
 ## 4. Creditability
 
-> As a user I need to know how many customers the website gets, is it a reliable
-> and competitive website.
-
 - This user story is developed on branch `credit`.
 - This branch is merged to `master` branch after completion.
+
+> As a user I need to know how many customers the website gets, is it a reliable
+> and competitive website.
 
 - [ ] There should be data and facts backup your creditability.
 
@@ -103,10 +102,10 @@
 
 ## 5. Example Box
 
-> As a user I would like to know if the service is easy to use.
-
 - This user stories are developed on branch `example.box`
 - This branch is merged to `master`
+
+> As a user I would like to know if the service is easy to use.
 
 - [ ] screenshot and information of how to use the service in real environment.
 
@@ -142,11 +141,11 @@
 
 ## 7. Supported languages
 
-> As a user i want to see if the service supports the language i am currently
-> using.
-
 - This user stories are developed on branch `languages`
 - This branch is merged to `master`
+
+> As a user i want to see if the service supports the language i am currently
+> using.
 
 - [ ] Showing the language the service is currently supporting.
 
@@ -161,10 +160,10 @@
 
 ## 8.Social Links
 
-> As a user i am interested in reaching out to the site owner for more.
-
 - This user stories are developed on branch `social-links`
 - This branch is merged to `master`
+
+> As a user i am interested in reaching out to the site owner for more.
 
 - [ ] Add social links and copyright.
 
