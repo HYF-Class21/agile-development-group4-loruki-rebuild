@@ -6,7 +6,7 @@
 
 > these are necessary for basic usability.
 
-- [ ] As a user I want to see the `title` of the page
+- [ ] As a user I want to see the `title` of the page.
 
   - _there is a clear title of the page at the top left corner._
 
@@ -32,6 +32,11 @@
 - [ ] As a user I want to see the `example box` of the page.
 
   - _there is a box with example how to use the service_
+
+- [ ] As a user I want to see `extra advertisement` to get more information
+      about services that provides this website
+
+  - _there is a box with information about cloud hosting_
 
 - [ ] As a user I want to see the `languages` that the service supports.
 
