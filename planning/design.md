@@ -12,5 +12,6 @@ Here is the wireframes of our project.
 
 ---
 
-![Home page](/images\home.png) ![Features](/images\features.png)
-![Docs](/images\docs.png)
+- ![Home page](./images/home.png)
+- ![Features](./images/features.png)
+- ![Docs](./images/docs)
