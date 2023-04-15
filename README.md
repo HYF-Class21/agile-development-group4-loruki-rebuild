@@ -30,9 +30,12 @@
 - Agile development
 
 ## Setup
->For anyone who is interested in viewing this project, you could:
-* Click on the link on the right side of the page, right below settings button.
-* You could also clone the repo and view it with live server in vscode.
+
+> For anyone who is interested in viewing this project, you could:
+
+- Click on the link on the right side of the page, right below settings button.
+
+- You could also clone the repo and view it with live server in vscode.
 
 ## Team members
 
